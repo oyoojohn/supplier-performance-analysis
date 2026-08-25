@@ -1,0 +1,6 @@
+Supplier name,total_cost,avg_manufacturing_cost,avg_defect_rate,avg_lead_time,avg_shipping_cost,sku_count,total_revenue,cost_share_pct,defect_rank,cost_rank
+Supplier 1,15520.98,45.25,1.8,14.78,5.51,27,157529.0,29.3,5.0,1.0
+Supplier 2,11330.6,41.62,2.36,18.55,5.74,22,125467.42,21.4,3.0,2.0
+Supplier 5,9648.41,44.77,2.67,18.06,5.79,18,110343.46,18.2,1.0,3.0
+Supplier 4,9392.59,62.71,2.34,15.22,5.76,18,86468.96,17.7,4.0,4.0
+Supplier 3,7032.0,43.63,2.47,20.13,4.79,15,97795.98,13.3,2.0,5.0
